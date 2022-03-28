@@ -11,7 +11,6 @@
   inputs.src-todoist-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-todoist-v0_1_0.owner = "ruivieira";
   inputs.src-todoist-v0_1_0.repo  = "nim-todoist";
-  inputs.src-todoist-v0_1_0.dir   = "";
   inputs.src-todoist-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

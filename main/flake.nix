@@ -11,7 +11,6 @@
   inputs.src-todoist-main.ref   = "refs/heads/main";
   inputs.src-todoist-main.owner = "ruivieira";
   inputs.src-todoist-main.repo  = "nim-todoist";
-  inputs.src-todoist-main.dir   = "";
   inputs.src-todoist-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
