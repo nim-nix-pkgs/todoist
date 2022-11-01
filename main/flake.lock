@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1662096612,
-        "narHash": "sha256-R+Q8l5JuyJryRPdiIaYpO5O3A55rT+/pItBrKcy7LM4=",
+        "lastModified": 1667085676,
+        "narHash": "sha256-jPHYYoSdrV3ypWG4oi9SUeI2MU6dLjxM88+9io5Rrx0=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "21de2b973f9fee595a7a1ac4693efff791245c34",
+        "rev": "e6e6bad81b7e11f37d893ef39712ce8918ae2338",
         "type": "github"
       },
       "original": {
@@ -45,11 +45,11 @@
     "src-todoist-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1624825191,
-        "narHash": "sha256-nz/S4hWmryhMX+QOUBRlZr7nCkX34aDZ9oVSnvtygfE=",
+        "lastModified": 1665061769,
+        "narHash": "sha256-DDlDeh2eV6VsdqWn5LEdSC5i0Q7dzDl61RasGIAutuw=",
         "owner": "ruivieira",
         "repo": "nim-todoist",
-        "rev": "352f30e74245fedd1043eac0487fdf8390a5e32f",
+        "rev": "8d5d8641c4b00c4844f3b3a1c7ab18852a410ca3",
         "type": "github"
       },
       "original": {
